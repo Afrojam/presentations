@@ -1,0 +1,590 @@
+[
+  {
+    "objectID": "Introducciones/AMD/2425AMD_Presentacio_laboratori.html",
+    "href": "Introducciones/AMD/2425AMD_Presentacio_laboratori.html",
+    "title": "Anàlisi Multivariant de dades (AMD)",
+    "section": "",
+    "text": "Teoria\n\nDante Conti (dante.conti@upc.edu)\n\nIDEAI (Nexus II)\nC5 - 219\n\n\n\n\n\n\n\n\nLaboratoris\n\nGrup 1\n\nJemie Arjona (jemie.arjona@upc.edu)\n\nIDEAI (Nexus II)\n\n\nGrup 2\n\nSergi Ramirez (sergi.ramirez@upc.edu)\n\nIDEAI (Nexus II)\nC5 - 212b\n\nXavier Angerri (xavier.angerri@upc.edu)\n\nIDEAI (Nexus II)"
+  },
+  {
+    "objectID": "Introducciones/AMD/2425AMD_Presentacio_laboratori.html#informació-del-curs",
+    "href": "Introducciones/AMD/2425AMD_Presentacio_laboratori.html#informació-del-curs",
+    "title": "Anàlisi Multivariant de dades (AMD)",
+    "section": "Informació del curs",
+    "text": "Informació del curs\nProfessors\n\n\nTeoria\n\nDante Conti (dante.conti@upc.edu)\n\nIDEAI (Nexus II)\nC5 - 219\n\n\n\n\n\n\n\n\nLaboratoris\n\nGrup 1\n\nJamie Arjona (jamie.arjona@upc.edu)\n\nETSEIB - Planta 6 - Despatx 6.45\n\n\nGrup 2\n\nSergi Ramirez (sergi.ramirez@upc.edu)\n\nIDEAI (Nexus II)\nC5 - 212b\n\nXavier Angerri (xavier.angerri@upc.edu)\n\nIDEAI (Nexus II)"
+  },
+  {
+    "objectID": "Introducciones/AMD/2425AMD_Presentacio_laboratori.html#informació-del-curs-1",
+    "href": "Introducciones/AMD/2425AMD_Presentacio_laboratori.html#informació-del-curs-1",
+    "title": "Anàlisi Multivariant de dades (AMD)",
+    "section": "Informació del curs",
+    "text": "Informació del curs\nEstructura\n- Sessions Teòriques:\n\nDimarts (17:00h a 19:00h) S02 (D.Conti) \n\n- Sessions Pràctiques:\n\nAquestes sessions estaràn compostes per 1h de workshop per part del docent i 1h de treball en grup dedicat als seus projectes\n\n\nDijous (15:00h a 17:00h) PC2 (J.Arjona)\nDijous (17:00h a 19:00h) PC2 (X.Angerri i S.Ramirez) \n\n- Assistència dels estudiants:\n\nL’assistència és obligatoria tant a teoria com a la pràctica\nQualsevol falta s’haurà de justificar mitjançant el correu del professors"
+  },
+  {
+    "objectID": "Introducciones/AMD/2425AMD_Presentacio_laboratori.html#avaluació",
+    "href": "Introducciones/AMD/2425AMD_Presentacio_laboratori.html#avaluació",
+    "title": "Anàlisi Multivariant de dades (AMD)",
+    "section": "Avaluació",
+    "text": "Avaluació\n\n\\[\nNota Final = 0.35 · Q + 0.325 · E_3 + 0.325 · E_4\n\\]\n\n\n\n\nÓn:\n\n\n\\(Q\\): 3 Quizes de preguntes curtes.\n\\(E_{3, 4}\\): Entrega del treball en grup\n\n\n\n\n\n\nLes matrícules d’honor s’assignarán segons els criteri dels docents valorant les aportacions dels alumnes en les classes tant teòriques com pràctiques."
+  },
+  {
+    "objectID": "Introducciones/AMD/2425AMD_Presentacio_laboratori.html#avaluació-1",
+    "href": "Introducciones/AMD/2425AMD_Presentacio_laboratori.html#avaluació-1",
+    "title": "Anàlisi Multivariant de dades (AMD)",
+    "section": "Avaluació",
+    "text": "Avaluació\nQuizes\n\n\n\nQuizes de preguntes curtes\nDuració: 20 minuts\nPreguntes: 10 - 15 preguntes Sense apunts\nPonderació: 11.67% (cada quiz) de la qualificació final.\n\n\n\n\n\n\n\n\n\nQuiz 1\nQuiz 2\nQuiz 3\n\n\n\n\n20/03/2025\n24/04/2025\n15/05/2025\n\n\n\n\nAquesta distribució temporal está subjectes a canvis per part dels docents"
+  },
+  {
+    "objectID": "Introducciones/AMD/2425AMD_Presentacio_laboratori.html#avaluació-2",
+    "href": "Introducciones/AMD/2425AMD_Presentacio_laboratori.html#avaluació-2",
+    "title": "Anàlisi Multivariant de dades (AMD)",
+    "section": "Avaluació",
+    "text": "Avaluació\nProjectes\n\nEs formaran grups de 9 persones\nS’ha de mantenir la paritat de gènere en el grup.\nÉs obligatori que cada grup contingui alumnes del doble grau o ERASMUS.\nEs realitzarán dues presentacions en públic respecte les entregues 3 i 4.\nLes presentacions són en horari de classe de pràctiques.\n\n\n\n\n\n\n\n\n\n\n\n\n\nE1\nE2\nE3\nE4\n\n\n\n\nEntregues\n20/02/2025\n06/03/2025\n26/03/2025 a les 23:59\n21/05/2025 a les 23:59\n\n\nPresentacions\n\n\n27/03/2025\n22/05/2025\n\n\n\n\nImportant: No es permetrà cap entrega fora de plaç sense raons justificades"
+  },
+  {
+    "objectID": "Introducciones/AMD/2425AMD_Presentacio_laboratori.html#avaluació-3",
+    "href": "Introducciones/AMD/2425AMD_Presentacio_laboratori.html#avaluació-3",
+    "title": "Anàlisi Multivariant de dades (AMD)",
+    "section": "Avaluació",
+    "text": "Avaluació\nExàmen Final\n\nNomés estarà disponible per aquells alumnes que ho sol·licitin per correu electrònic\nS’evaluarà el dia 16/06/2025 a les 15:00\nS’evaluarà tota la materia (no serà excluient)\nNo es permetrà l’utilització d’apunts\nContindrà tant preguntes teòriques com preguntes de la part pràctica amb sortides que s’hauràn d’interpretar\nSerà necessari demanar a partir del dia 01/06/2025 les dades necessaries per a la realització de la part pràctica."
+  },
+  {
+    "objectID": "Introducciones/AMD/2425AMD_Presentacio_laboratori.html#temari",
+    "href": "Introducciones/AMD/2425AMD_Presentacio_laboratori.html#temari",
+    "title": "Anàlisi Multivariant de dades (AMD)",
+    "section": "Temari",
+    "text": "Temari\n\n\n\nQuizes\n\n\nQuiz 1:\n\nPreprocessing\n\nOutliers\nMètodes d’imputació\n\nClustering\nProfiling\n\nQuiz 2:\n\nMètodes Factorials\n\nQuiz 3:\n\nAnàlisis Discriminant\nAnàlisis Textual\n\n\n\n\nEntregables\n\n\nEntregable 1 (no evaluable)\nEntregable 2 (no evaluable)\nEntregable 3:\n\nPreprocessing\n\nOutliers\nMètodes d’imputació\n\nClustering\nProfiling\n\nEntregable 4:\n\nMètodes Factorials\nAnàlisis Discriminant\nAnàlisis Textual\n\n\n\nVisualitzar el document del campus on explica les pautes del treball"
+  },
+  {
+    "objectID": "Introducciones/AMD/2425AMD_Presentacio_laboratori.html#python-1",
+    "href": "Introducciones/AMD/2425AMD_Presentacio_laboratori.html#python-1",
+    "title": "Anàlisi Multivariant de dades (AMD)",
+    "section": "Python",
+    "text": "Python\nInstalació\n\n\nNo haureu d’instal·lar cap programa\n\n\n\n\nNecessitareu una compte de gmail\n\n\n\n\n\n\n\nhttps://colab.research.google.com/"
+  },
+  {
+    "objectID": "Introducciones/AMD/2425AMD_Presentacio_laboratori.html#distribució-dels-equips",
+    "href": "Introducciones/AMD/2425AMD_Presentacio_laboratori.html#distribució-dels-equips",
+    "title": "Anàlisi Multivariant de dades (AMD)",
+    "section": "Distribució dels equips",
+    "text": "Distribució dels equips\n\nEs formaran grups de 9 persones\nS’ha de mantenir la paritat de gènere en el grup.\nÉs obligatori que cada grup contingui alumnes del doble grau o ERASMUS.\nSerà necessari assignar a un project leader"
+  },
+  {
+    "objectID": "Introducciones/AMD/2425AMD_Presentacio_laboratori.html#project-leader",
+    "href": "Introducciones/AMD/2425AMD_Presentacio_laboratori.html#project-leader",
+    "title": "Anàlisi Multivariant de dades (AMD)",
+    "section": "Project Leader",
+    "text": "Project Leader\n\nFuncions:\n\n\n📌 Planificació del Projecte – Defineix objectius, abast, cronograma i recursos necessaris.\n\n\n📌 Gestió d’Equip – Coordina, motiva i resol conflictes dins de l’equip.\n\n\n📌 Comunicació – Actua com a enllaç entre stakeholders, equip i direcció.\n\n\n📌 Supervisió del Progrés – Fa seguiment de fites, terminis i qualitat del treball.\n\n\n📌 Gestió de Riscos – Identifica i mitiga riscos per a evitar retards o problemes.\n\n\n📌 Optimització de Recursos – Administra temps, pressupost i materials de manera eficient.\n\n\n📌 Resolució de Problemes – Presa decisions ràpides i efectives davant imprevistos.\n\n\n📌 Control de Qualitat – Assegura que els lliurables compleixen amb els estàndards requerits.\n\n\n📌 Reporti i Documentació – Genera informes d’avanç i manté registres actualitzats.\n\n\n📌 Implementació de Metodologies – Aplica frameworks com Agile, Scrum o PMI segons el projecte."
+  },
+  {
+    "objectID": "Introducciones/AMD/2425AMD_Presentacio_laboratori.html#presentacions",
+    "href": "Introducciones/AMD/2425AMD_Presentacio_laboratori.html#presentacions",
+    "title": "Anàlisi Multivariant de dades (AMD)",
+    "section": "Presentacions",
+    "text": "Presentacions\n\n Durada de 15 minuts\n\n\n El tribunal estarà compost per 3 membres docents de l’assignatura\n\n\n Tots els integrants de cada apartat s’hauràn de preparar la presentació\n\n\n El tribunal, al inici de cada presentació anunciarà les persones encarregades de presentar cada apartat.\n\n\n Al finalitzar la presentació hi haurà 15 minuts de preguntes-debat per part del tribunal."
+  },
+  {
+    "objectID": "Introducciones/AMD/2425AMD_Presentacio_laboratori.html#evaluació-de-les-presentacions",
+    "href": "Introducciones/AMD/2425AMD_Presentacio_laboratori.html#evaluació-de-les-presentacions",
+    "title": "Anàlisi Multivariant de dades (AMD)",
+    "section": "Evaluació de les presentacions",
+    "text": "Evaluació de les presentacions\n\n\\[\nD_{3,4} = 0.8 · NG + 0.1 · NP + 0.1 · NA\n\\]\n\n\nÓn:\n\n\n\\(NG\\): Nota global del treball\n\\(NP\\): Nota del treball de classe (laboratoris) otorgat per l’equip docent\n\\(NA\\): Nota de la cross-validació dels companys del projecte\n\n\n\nCross-validació\nEls companys del grup s’hauràn d’evaluar a si mateix i a la resta de companys i d’allà s’obtindrà una nota de l’aportació de l’alumne al treball."
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#competencias-transversales-a-evaluar-en-trabajos-prácticos",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#competencias-transversales-a-evaluar-en-trabajos-prácticos",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Competencias transversales a evaluar en trabajos prácticos",
+    "text": "Competencias transversales a evaluar en trabajos prácticos\n\nOrganización del equipo de trabajo.\nPlanificación y gestión de incidencias.\nRazonamiento\nSíntesis y claridad en el informe escrito.\nHabilidades comunicativas (presentación oral)\nIntegración de conocimientos (análisis comparativo y conclusiones de trabajos prácticos)"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#hacer-un-plan-de-trabajo",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#hacer-un-plan-de-trabajo",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Hacer un plan de trabajo",
+    "text": "Hacer un plan de trabajo\n\nIdentificar las tareas principales (incluir informes, etc.)\nDiseñar el gráfico de precedencia entre tareas.\nProgramación temporal (considere cuidadosamente las precedencias entre las tareas)\nAsignar recursos humanos a las tareas (quién hace qué y cuándo) (Asegurar la viabilidad, es decir, todos con un esfuerzo equilibrado asignado y sin selecciones de dedicación que puedan colapsar el equipo)"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#diagrama-de-gantt",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#diagrama-de-gantt",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Diagrama de Gantt",
+    "text": "Diagrama de Gantt\n\nlibrary(readr)\nlibrary(ganttrify)\n\ncrono &lt;- readr::read_csv2(\"cono.csv\", \n            col_types = readr::cols(Final = readr::col_date(format = \"%d/%m/%Y\"), \n            Inicio = readr::col_date(format = \"%d/%m/%Y\")))\ncolnames(crono) &lt;- c(\"wp\", \"activity\", \"start_date\", \"end_date\")\ncrono$start_date &lt;- lubridate::ymd(crono$start_date)\ncrono$end_date &lt;- lubridate::ymd(crono$end_date)\nprint(crono)\n\n# A tibble: 9 × 4\n  wp      activity      start_date end_date  \n  &lt;chr&gt;   &lt;chr&gt;         &lt;date&gt;     &lt;date&gt;    \n1 Etapa 1 Actividad 1   2020-01-01 2020-02-01\n2 Etapa 1 Actividad 2   2020-02-01 2020-03-01\n3 Etapa 1 Actividad 3   2020-03-01 2020-06-01\n4 Etapa 2 Actividad 2.1 2020-04-01 2020-05-01\n5 Etapa 2 Actividad 2.2 2020-05-01 2020-07-01\n6 Etapa 2 Actividad 2.3 2020-06-01 2020-07-01\n7 Etapa 3 Actividad a   2020-08-01 2020-10-01\n8 Etapa 3 Actividad b   2020-09-01 2020-11-01\n9 Etapa 3 Actividad c   2020-08-01 2020-12-01"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#cuadrícula-de-asignación",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#cuadrícula-de-asignación",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Cuadrícula de asignación",
+    "text": "Cuadrícula de asignación\n\n\n\n\n\nParticipantes\nMiembro 1\nMiembro 2\nMiembro 3\nMiembro 4\nMiembro 5\nMiembro 6\n\n\n\n\nTarea 1\nx\nx\nX\n\n\n\n\n\nTarea 2\n\nx\nx\n\n\n\n\n\nTarea 3\n\n\nx\nX\n\n\n\n\nTarea 4\n\n\nx\nx\n\nX\n\n\nCoordinador\nX\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMisma lista de tareas que Gantt.\nMarcar quién participa en cada uno.\nEn negrita la coordinación de tareas.\nCada coordinador de tareas es responsable del buen desarrollo de la tarea y se sincroniza con los coordinadores de otras tareas."
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#plan-de-riesgos",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#plan-de-riesgos",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Plan de Riesgos",
+    "text": "Plan de Riesgos\n\n\n\n\n\n\nEnumerar los posibles problemas que pueden aparecer a lo largo del trabajo y pueden hacer que el trabajo final fracase\nPlanificar acciones para prevenir estas situaciones.\nIndique cómo gestionaría la situación si finalmente se presentara."
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#habilidades",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#habilidades",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Habilidades",
+    "text": "Habilidades\n\n\n\n\n\n\n\n\n\n\n\n\nDe la Cruz et al, Ministerio de educación y deporte\n\n\nLa única forma de comunicar con claridad es haciendo coincidir los mensajes verbales y no verbales"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#habilidades-1",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#habilidades-1",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Habilidades",
+    "text": "Habilidades"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#hacer-un-plan-de-trabajo-1",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#hacer-un-plan-de-trabajo-1",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Hacer un plan de trabajo",
+    "text": "Hacer un plan de trabajo\n\nMerecerse un margen de tiempo antes de la entrega para incidencias inesperadas.\nPlanea terminar ANTES\nMerecerse tiempo para preparar presentaciones orales también.\nFormato del plan de trabajo: – Diagrama Gant + Cuadrícula de asignación + Plan de riesgos"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#diagrama-de-gantt-output",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#diagrama-de-gantt-output",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Diagrama de Gantt",
+    "text": "Diagrama de Gantt"
+  },
+  {
+    "objectID": "index.html#asignaturas",
+    "href": "index.html#asignaturas",
+    "title": "Presentacions de cursos",
+    "section": "Asignaturas",
+    "text": "Asignaturas\n\nAMD"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#proyectos-r",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#proyectos-r",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Proyectos R",
+    "text": "Proyectos R\nLos proyectos R son un tipo especial de archivo con un . Extensión Rproj que te facilita mantener todos los datos, código e imágenes de un proyecto en un solo lugar.\nAbra RStudio, luego haga clic en Archivo -&gt; Nuevo proyecto -&gt; Nuevo directorio - Nuevo proyecto.\n\nEscriba el nombre que desea darle a su nueva carpeta. Luego, use Explorar para seleccionar en qué lugar de su computadora desea crear la carpeta.\nFinalmente, clicamos Crear proyecto. La nueva carpeta se creará y abrirá en RStudio, a veces puede tardar un par de minutos."
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#carpetas-de-proyectos",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#carpetas-de-proyectos",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Carpetas de proyectos",
+    "text": "Carpetas de proyectos\n\n\n\n\n\n\n\nUsar proyectos de R\n\n\nMantenga todo lo relacionado con su análisis junto, y fácil de encontrar para R usando proyectos.\n\n\n\n\n\n\n\nR\n│   messy_example_script.R\n│   R scripts for other project 1.R\n│   R scripts for other project 2.R\n│   R scripts for other project 3.R\n\nproject folder\n│   messy_example_script.R\n|   data.csv\n|   project_name.Rproj"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#carpetas-de-proyectos-1",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#carpetas-de-proyectos-1",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Carpetas de proyectos",
+    "text": "Carpetas de proyectos"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#añadir-comentarios",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#añadir-comentarios",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Añadir comentarios",
+    "text": "Añadir comentarios\n\nAñadir comentarios usando la # en R (en lineas separadas)\n\n\n\n\n\n\n\n\n\nMala praxis\n\n\nLos comentarios no necesitan explicar lo que hace tu código.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBuena praxis\n\n\nLos comentarios deberían explicar POR QUÉ lo hiciste."
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#secciones-y-subsecciones",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#secciones-y-subsecciones",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Secciones y subsecciones",
+    "text": "Secciones y subsecciones\nPuedes añadir secciones y subsecciones al código:\n# Load data ---------------------------------------\n\n## Geospatial files -------------------------------\n\n## Population files -------------------------------"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#estructuración-del-script",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#estructuración-del-script",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Estructuración del Script",
+    "text": "Estructuración del Script\n\nTodas las librerias (library()) se han de colocar al inicio\n¡No se han de agregar los install.packages() al script! Se han de ejecutar directamente a la consola\nSe han de dividir en secciones grandes con nombres útiles"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#estilos-del-script",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#estilos-del-script",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Estilos del Script",
+    "text": "Estilos del Script\nEste código se ejecuta sin errores pero…\n\nstarwars |&gt; filter(height&gt;100) |&gt;select(eye_color, mass)|&gt; group_by(eye_color) |&gt;summarise(mean_mass =mean(mass, na.rm = T))\n\n\nEste es el mismo código:\n\nstarwars |&gt; \n  filter(height &gt; 100) |&gt; \n  select(eye_color, mass) |&gt; \n  group_by(eye_color) |&gt; \n  summarise(mean_mass = mean(mass, na.rm = TRUE))"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#linting",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#linting",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Linting",
+    "text": "Linting\nLinting: Análisis del código fuente para detectar:\n\ncuestiones de estilo: x&lt;-3 a x &lt;- 3\nerrores comunes: mean(x, na.rm = T, na.rm = F)\npaquetes faltantes\n…\n\n\n\nEn R, el control del linting lo realiza el paquete {lintr}"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#lintr",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#lintr",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "lintr",
+    "text": "lintr\nEjecutando el comando: lintr::lint(\"file.R\")"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#styling",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#styling",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Styling",
+    "text": "Styling\n{lintr} es el paquete que permite identificar el qué está mal pero no soluciona los problemas.\n\n\n\nEl paquete de R {styler} le dará estilo al código\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAtajos del teclado\n\n\nMediante la función styler::style_active_file() se activa el cambio de estilo de código\nEl paquete {styler} no soluciona todos los problemas encontrados en {lintr}."
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#proyectos-y-rutas-de-archivos",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#proyectos-y-rutas-de-archivos",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Proyectos y rutas de archivos",
+    "text": "Proyectos y rutas de archivos"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#organizar-un-script",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#organizar-un-script",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Organizar un Script",
+    "text": "Organizar un Script"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#múltiples-scripts-y-carpetas",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#múltiples-scripts-y-carpetas",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Múltiples scripts y carpetas",
+    "text": "Múltiples scripts y carpetas"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#problema-cada-componente-del-grupo-tiene-en-una-ruta-diferente-su-base-de-datos",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#problema-cada-componente-del-grupo-tiene-en-una-ruta-diferente-su-base-de-datos",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Problema: Cada componente del grupo tiene en una ruta diferente su base de datos",
+    "text": "Problema: Cada componente del grupo tiene en una ruta diferente su base de datos\n\ndata &lt;- read_csv(\"C:/Users/username/OneDrive/R code/LOS.csv\")\n\nO tal vez …\n\nsetwd(\"C:/Users/username/OneDrive/R code\")\n\n\nUna forma fácil de hacer esto es usando un proyecto R\n\nUtilice un nuevo proyecto R para cada proyecto de análisis\nHaga doble clic en el archivo del proyecto para abrir RStudio con sus archivos en el lugar correcto."
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#buenas-prácticas-de-google",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#buenas-prácticas-de-google",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Buenas prácticas de Google",
+    "text": "Buenas prácticas de Google\n\n\nGoogle pone a disposición de los desarrolladores un código de buenas prácticas con todo lo que ha de tener en cuenta un desarrollador para la escritura de código."
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#dividir-scripts-de-r",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#dividir-scripts-de-r",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Dividir scripts de R",
+    "text": "Dividir scripts de R\nImagina una estructura de directorio como esta:\nproject\n│   Rscript.R\nque contiene todo el código del proyecto.\nEsto está bien pero:\n\nNo es genial si RScript.R contiene 4.000 líneas\nLas secciones y subsecciones son geniales, pero a veces no son suficientes para separar todo el código\nNo es un nombre muy descriptivo\nEs un script que problablemente hace muchas cosas diferentes"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#dividir-scripts-de-r-1",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#dividir-scripts-de-r-1",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Dividir scripts de R",
+    "text": "Dividir scripts de R"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#varios-archivos",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#varios-archivos",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Varios archivos",
+    "text": "Varios archivos\n\n\nNombres aceptables\nproject\n│   data wrangling.R\n│   load data.R\n│   modelling.R\n│   packages.R\n│   plots.R\n│   plots2.R\n\nMejores nombres\nproject\n│   00_packages.R\n│   01_load_data.R\n│   02_data_wrangling.R\n│   03_exploratory_plots.R\n│   04_modelling.R\n│   05_final_plots_tables.R\n\n\n\n\n\n\n\n\nAtajos del teclado\n\n\n\nPrefijo con números para darles un orden (añadir ceros a la izquierda)\nDar nombres sensatos y descriptivos\nEvitar los espacios (o _ o -)\n\n\nNota: En los nombres de las variables y funciones se aplican el mismo criterio"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#varias-carpetas",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#varias-carpetas",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Varias carpetas",
+    "text": "Varias carpetas\nPara una óptima organización del proyecto, la estructura de carpetas que se debería de realizar es la siguiente:\nproject\n│   project.Rproj\n│   README.md\n└───data\n│   │   data_inicial.RData\n│   │   data_preprocessada.RData\n│   │   data_modelling.RData\n└───docs\n└───inputs\n│   │   data.csv\n└───outputs\n│   └─── data_final.csv \n│   └─── plots\n│        │   residuals.png\n│        │   outcome_by_age.png\n│        │   outcome_by_occupation.png\n└───syntax\n│   │   00_packages.R\n│   │   01_load_data.R\n│   │   02_data_wrangling.R\n│   │   03_exploratory_plots.R\n│   │   04_modelling.R\n│   │   05_final_plots_tables.R\n└───temp"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#dependencias-de-los-scripts-en-r",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#dependencias-de-los-scripts-en-r",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Dependencias de los scripts en R",
+    "text": "Dependencias de los scripts en R\n\nproject\n└───syntax\n│   │   00_packages.R\n│   │   01_load_data.R\n│   │   02_data_wrangling.R\n│   │   03_exploratory_plots.R\n│   │   04_modelling.R\n│   │   05_final_plots_tables.R\n\n\nEl scripts 01 depende de 00\nEl script 02 depende de 01 (y 00)\nEl script 03 depende de 02 (y 01 y 00)\nEl script 04 depende de 03 (y 02 y 01 y 00)\n…\n\n\n\n\n\n\n\n\n\nAtajos del teclado\n\n\n¡Escribe todo esto (en un archivo README.md)!"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#otros-consejos-útiles",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#otros-consejos-útiles",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Otros consejos útiles",
+    "text": "Otros consejos útiles\nProblema: su coautor utiliza una versión de paquete diferente\n\n\nrenv:\n\nAislar el entorno del proyecto\nFijar versiones específicas del paquete R a cada proyecto\nHace que sea más fácil utilizar la misma versión que los colaboradores"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#otros-consejos-útiles-1",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#otros-consejos-útiles-1",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Otros consejos útiles",
+    "text": "Otros consejos útiles\nProblema: su coautor utiliza una versión de diferente de R\n\n\nrig:\n\nAdministrar múltiples versiones de R\nCambiar entre diferentes versiones de R para diferentes proyectos"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#otros-consejos-útiles-2",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#otros-consejos-útiles-2",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Otros consejos útiles",
+    "text": "Otros consejos útiles\nProblema: su coautor utiliza una versión de diferente de R\n\n\nrix:\n\nUtiliza Nix, un administrador de paquetes enfocado en compilaciones reproducibles.\nCrea entornos específicos del proyecto con una versión personalizada de R, sus paquetes y todas las dependencias del sistema"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#otros-consejos-útiles-3",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#otros-consejos-útiles-3",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Otros consejos útiles",
+    "text": "Otros consejos útiles\nProblema: Necesito ayuda con el código\n\n\nEl paquete {reprex} en R facilita la creación de un ejemplo reproducible. Puedes incluir la información de la sesión como por ejemplo versiones del paquete."
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#otros-consejos-útiles-4",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#otros-consejos-útiles-4",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Otros consejos útiles",
+    "text": "Otros consejos útiles\nProblema: Necesito compartir el código con mis compañeros"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#problema-su-coautor-utiliza-una-versión-de-paquete-diferente",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#problema-su-coautor-utiliza-una-versión-de-paquete-diferente",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Problema: su coautor utiliza una versión de paquete diferente",
+    "text": "Problema: su coautor utiliza una versión de paquete diferente\n\n\nrenv:\n\nAislar el entorno del proyecto\nFijar versiones específicas del paquete R a cada proyecto\nHace que sea más fácil utilizar la misma versión que los colaboradores"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#problema-su-coautor-utiliza-una-versión-de-diferente-de-r",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#problema-su-coautor-utiliza-una-versión-de-diferente-de-r",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Problema: su coautor utiliza una versión de diferente de R",
+    "text": "Problema: su coautor utiliza una versión de diferente de R\n\n\nrig:\n\nAdministrar múltiples versiones de R\nCambiar entre diferentes versiones de R para diferentes proyectos"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#problema-su-coautor-utiliza-una-versión-de-diferente-de-r-1",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#problema-su-coautor-utiliza-una-versión-de-diferente-de-r-1",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Problema: su coautor utiliza una versión de diferente de R",
+    "text": "Problema: su coautor utiliza una versión de diferente de R\n\n\nrix:\n\nUtiliza Nix, un administrador de paquetes enfocado en compilaciones reproducibles.\nCrea entornos específicos del proyecto con una versión personalizada de R, sus paquetes y todas las dependencias del sistema"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#problema-necesito-ayuda-con-el-código",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#problema-necesito-ayuda-con-el-código",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Problema: Necesito ayuda con el código",
+    "text": "Problema: Necesito ayuda con el código\n\n\nEl paquete {reprex} en R facilita la creación de un ejemplo reproducible. Puedes incluir la información de la sesión como por ejemplo versiones del paquete."
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#problema-necesito-compartir-el-código-con-mis-compañeros",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#problema-necesito-compartir-el-código-con-mis-compañeros",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Problema: Necesito compartir el código con mis compañeros",
+    "text": "Problema: Necesito compartir el código con mis compañeros\nExisten herramientas como Github que permite tener siempre actualizado todas las modificaciones de código. Dichos proyectos se pueden realizar tanto en:\n\nproyecto público\nproyecto privado (Se recomienda para esta asignatura)"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#problema-su-coautor-utiliza-una-versión-diferente-de-r",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#problema-su-coautor-utiliza-una-versión-diferente-de-r",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Problema: su coautor utiliza una versión diferente de R",
+    "text": "Problema: su coautor utiliza una versión diferente de R\n\n\nrig:\n\nAdministrar múltiples versiones de R\nCambiar entre diferentes versiones de R para diferentes proyectos"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#problema-su-coautor-utiliza-una-versión-diferente-de-r-1",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#problema-su-coautor-utiliza-una-versión-diferente-de-r-1",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Problema: su coautor utiliza una versión diferente de R",
+    "text": "Problema: su coautor utiliza una versión diferente de R\n\n\nRix:\n\nUtiliza Rix, un administrador de paquetes enfocado en compilaciones reproducibles.\nCrea entornos específicos del proyecto con una versión personalizada de R, sus paquetes y todas las dependencias del sistema"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos.html#diagrama-de-gantt-1",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos.html#diagrama-de-gantt-1",
+    "title": "Tips para el proyecto/trabajo práctico",
+    "section": "Diagrama de Gantt",
+    "text": "Diagrama de Gantt\n\npp &lt;- ganttrify(crono,\n          by_date = T,\n          size_text_relative = 1, \n          mark_quarters = TRUE,\n          exact_date = T,\n          colour_palette = c(\"orange2\",\"blue\", \"red\"),\n          month_number = F)"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#competències-transversals-avaluades-en-un-projecte-de-dades",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#competències-transversals-avaluades-en-un-projecte-de-dades",
+    "title": "Guia per fer un projecte d’estadística o de ciència de dades",
+    "section": "Competències transversals avaluades en un projecte de dades",
+    "text": "Competències transversals avaluades en un projecte de dades\n\nOrganització i treball en equip.\nPlanificació i gestió d’incidències.\nRaonament crític.\nSíntesi i claredat al transmetre informació.\nHabilitats comunicatives.\nIntegració de coneixements (Anàlisis comparativa i conclusions del treball)"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#el-pla-de-treball",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#el-pla-de-treball",
+    "title": "Guia per fer un projecte d’estadística o de ciència de dades",
+    "section": "El pla de treball",
+    "text": "El pla de treball\n\nIdentificar les principals tasques (incluir informes, etc.)\nDisenyar l’ordre temporal entre les tasques i fer un gràfic d’aquest.\nAssignació de recursos humans (qui fa que i quan). Assegurar la viabilitat mantenint un esforç equilibrat entre els diferents membres de l’equip i evitar punts de treball que poden fer col·lapsar a l’equip."
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#el-pla-de-treball-1",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#el-pla-de-treball-1",
+    "title": "Guia per fer un projecte d’estadística o de ciència de dades",
+    "section": "El pla de treball",
+    "text": "El pla de treball\n\nFer previsió de tenir un marge de temps per poder resoldre incidències no esperades.\nPlanificar l’acabada del treball abans de la data d’entrega.\nFormat del pla de treball: – Diagrama Gant + Quadrícula d’assignació + Pla de riscos"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#diagrama-de-gantt",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#diagrama-de-gantt",
+    "title": "Guia per fer un projecte d’estadística o de ciència de dades",
+    "section": "Diagrama de Gantt",
+    "text": "Diagrama de Gantt\n\nlibrary(readr)\nlibrary(ganttrify)\n\ncrono &lt;- readr::read_csv2(\"cono.csv\", \n            col_types = readr::cols(Final = readr::col_date(format = \"%d/%m/%Y\"), \n            Inicio = readr::col_date(format = \"%d/%m/%Y\")))\ncolnames(crono) &lt;- c(\"wp\", \"activity\", \"start_date\", \"end_date\")\ncrono$start_date &lt;- lubridate::ymd(crono$start_date)\ncrono$end_date &lt;- lubridate::ymd(crono$end_date)\nprint(crono)\n\n# A tibble: 9 × 4\n  wp      activity      start_date end_date  \n  &lt;chr&gt;   &lt;chr&gt;         &lt;date&gt;     &lt;date&gt;    \n1 Etapa 1 Actividad 1   2020-01-01 2020-02-01\n2 Etapa 1 Actividad 2   2020-02-01 2020-03-01\n3 Etapa 1 Actividad 3   2020-03-01 2020-06-01\n4 Etapa 2 Actividad 2.1 2020-04-01 2020-05-01\n5 Etapa 2 Actividad 2.2 2020-05-01 2020-07-01\n6 Etapa 2 Actividad 2.3 2020-06-01 2020-07-01\n7 Etapa 3 Actividad a   2020-08-01 2020-10-01\n8 Etapa 3 Actividad b   2020-09-01 2020-11-01\n9 Etapa 3 Actividad c   2020-08-01 2020-12-01"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#diagrama-de-gantt-1",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#diagrama-de-gantt-1",
+    "title": "Guia per fer un projecte d’estadística o de ciència de dades",
+    "section": "Diagrama de Gantt",
+    "text": "Diagrama de Gantt\n\npp &lt;- ganttrify(crono,\n          by_date = T,\n          size_text_relative = 1, \n          mark_quarters = TRUE,\n          exact_date = T,\n          colour_palette = c(\"orange2\",\"blue\", \"red\"),\n          month_number = F)"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#quadrícula-dassignació",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#quadrícula-dassignació",
+    "title": "Guia per fer un projecte d’estadística o de ciència de dades",
+    "section": "Quadrícula d’assignació",
+    "text": "Quadrícula d’assignació\n\n\n\n\n\nParticipantes\nMiembro 1\nMiembro 2\nMiembro 3\nMiembro 4\nMiembro 5\nMiembro 6\n\n\n\n\nTarea 1\nx\nx\nX\n\n\n\n\n\nTarea 2\n\nx\nx\n\n\n\n\n\nTarea 3\n\n\nx\nX\n\n\n\n\nTarea 4\n\n\nx\nx\n\nX\n\n\nCoordinador\nX\n\n\n\n\n\n\n\n\n\n\n\n\nCoherent amb el Gantt.\nMarcar la participació de cada membre a cada tasca.\nPossar en negreta quí coordina cada tasca.\nEls coordinadors de tasca han de garantir la bona realització de la tasca assignada i s’ha de coordinar amb els coordinadors de la resta de tasques."
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#pla-de-riscos",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#pla-de-riscos",
+    "title": "Guia per fer un projecte d’estadística o de ciència de dades",
+    "section": "Pla de Riscos",
+    "text": "Pla de Riscos\n\n\n\n\n\n\nEnumeració de possibles problemes que poden succeir al llarg del treball i que tenen un impacte en el resultat final del projecte.\nPlanificació d’accions preventives per evitar problemes.\nIndicar com fer la gestió de la incidència en cas que aquesta resulti."
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#posible-problema-cada-membre-del-grup-té-el-conjunt-de-dades-en-una-ruta-diferent",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#posible-problema-cada-membre-del-grup-té-el-conjunt-de-dades-en-una-ruta-diferent",
+    "title": "Guia per fer un projecte d’estadística o de ciència de dades",
+    "section": "Posible problema: Cada membre del grup té el conjunt de dades en una ruta diferent",
+    "text": "Posible problema: Cada membre del grup té el conjunt de dades en una ruta diferent\n\ndata &lt;- read_csv(\"C:/Users/username/OneDrive/R code/LOS.csv\")\n\nO pot ser …\n\nsetwd(\"C:/Users/username/OneDrive/R code\")\n\n\nSol·lució: Ús d’un projecte de R\n\nFer un projecte de R nou per cada projecte de dades.\nObrir el fitxer .Rproj ens obrirà directament RStudio amb tot configurat per treballar directament amb els fitxers del projecte."
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#projectes-de-r",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#projectes-de-r",
+    "title": "Guia per fer un projecte d’estadística o de ciència de dades",
+    "section": "Projectes de R",
+    "text": "Projectes de R\nEls projectes de R són un tipus especial de fitxer amb extensió .Rproj que facilita mantenir totes les dades, codi i imatges d’un projecte en una ubicació.\nObrir RStudio, clic a Archivo -&gt; Nuevo proyecto -&gt; Nuevo directorio - Nuevo proyecto.\n\nEscollir un nom de projecte que serà nom d’una nova carpeta. Després, utilitzar Explorar per seleccionar a on volem que es creï la carpeta del projecte al nostre PC.\nFinalment, click Crear proyecto. Així tindrem la nova carpeta i s’obrirà a l’RStudio."
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#carpetes-de-projectes",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#carpetes-de-projectes",
+    "title": "Guia per fer un projecte d’estadística o de ciència de dades",
+    "section": "Carpetes de projectes",
+    "text": "Carpetes de projectes\n\n\n\n\n\n\n\nUsar proyectos de R\n\n\nVolem tot relacionat amb l’anàlisi en un mateix lloc, fàcil de trobar amb l’R fent servir projectes.\n\n\n\n\n\n\n\nR\n│   messy_example_script.R\n│   R scripts for other project 1.R\n│   R scripts for other project 2.R\n│   R scripts for other project 3.R\n\nproject folder\n│   messy_example_script.R\n|   data.csv\n|   project_name.Rproj"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#afegir-comentaris",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#afegir-comentaris",
+    "title": "Guia per fer un projecte d’estadística o de ciència de dades",
+    "section": "Afegir comentaris",
+    "text": "Afegir comentaris\n\nAfegir comentaris fent servir # en R (línies separades)\n\n\n\n\n\n\n\n\nMala praxis\n\n\nEls comentaris no ha nd’explicar què fa cada línia del codi.\n\n\n\n\n\n\n\n\n\n\n\n\nBona praxis\n\n\nEls comentaris poden explicar perqué es fa així."
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#seccions-y-subseccions",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#seccions-y-subseccions",
+    "title": "Guia per fer un projecte d’estadística o de ciència de dades",
+    "section": "Seccions y subseccions",
+    "text": "Seccions y subseccions\nAfegir seccions i subseccions:\n# Load data ---------------------------------------\n\n## Geospatial files -------------------------------\n\n## Population files -------------------------------"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#estructuració-de-lscript",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#estructuració-de-lscript",
+    "title": "Guia per fer un projecte d’estadística o de ciència de dades",
+    "section": "Estructuració de l’Script",
+    "text": "Estructuració de l’Script\n\nCol·locar les llibreries al inici (library()).\nNo afegir els install.packages() al script. S’han d’executar directament a la consola.\nDivisió per seccions amb noms representatius."
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#estils-dels-script",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#estils-dels-script",
+    "title": "Guia per fer un projecte d’estadística o de ciència de dades",
+    "section": "Estils dels Script",
+    "text": "Estils dels Script\nCodi que s’executa sense errors, però…\n\nstarwars |&gt; filter(height&gt;100) |&gt;select(eye_color, mass)|&gt; group_by(eye_color) |&gt;summarise(mean_mass =mean(mass, na.rm = T))\n\n\nMateix codi:\n\nstarwars |&gt; \n  filter(height &gt; 100) |&gt; \n  select(eye_color, mass) |&gt; \n  group_by(eye_color) |&gt; \n  summarise(mean_mass = mean(mass, na.rm = TRUE))"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#linting",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#linting",
+    "title": "Guia per fer un projecte d’estadística o de ciència de dades",
+    "section": "Linting",
+    "text": "Linting\nLinting: Anàlisis del codi per tal de detectar:\n\nQuestions d’estil: x&lt;-3 a x &lt;- 3\nErrors: mean(x, na.rm = T, na.rm = F)\nLlibreries que falten\n…\n\n\n\nEn R, el control del linting es pot fer amb la llibreria {lintr}"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#lintr",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#lintr",
+    "title": "Guia per fer un projecte d’estadística o de ciència de dades",
+    "section": "lintr",
+    "text": "lintr\nExecutar la comanda: lintr::lint(\"file.R\")"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#styling",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#styling",
+    "title": "Guia per fer un projecte d’estadística o de ciència de dades",
+    "section": "Styling",
+    "text": "Styling\n{lintr} identifica què està malament, però no soluciona els problemes.\n\n\n\nLa llibrería de R {styler} li dona estil al codi\n\n\n\n\n\n\n\nAmb el mètode styler::style_active_file() s’activa el canvi d’estil del codi.\nAtenció, {styler} no soluciona tots els problemes trobats amb {lintr}.\n\n\n\n\n\n\nStyler\n\n\nAmb el mètode styler::style_active_file() s’activa el canvi d’estil del codi.\nAtenció, {styler} no soluciona tots els problemes trobats amb {lintr}."
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#bones-pràctiques-segons-google",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#bones-pràctiques-segons-google",
+    "title": "Guia per fer un projecte d’estadística o de ciència de dades",
+    "section": "Bones pràctiques segons Google",
+    "text": "Bones pràctiques segons Google\n\n\nGoogle posa a servei dels desenvolupadors de codi unes pautes de bones pràctiques indicant què s’ha de tenir en compte a l’hora de desenvolupar codi."
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#organització-dscripts-de-r",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#organització-dscripts-de-r",
+    "title": "Guia per fer un projecte d’estadística o de ciència de dades",
+    "section": "Organització d’scripts de R",
+    "text": "Organització d’scripts de R\nImagina tenir una estructura com la següent:\nproject\n│   Rscript.R\ntot el codi del projecte el tenim a un sol script.\nProblemes:\n\nPodem arribar a tenir un fitxer RScript.R amb 4.000 línies de codi.\nL’organització amb seccions i subseccions no és suficient.\nEl nom de l’arxiu no és gaire descriptiu.\nL’script és un amalgama de parts del projecte que tenen poc en comú."
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#organització-dels-scripts-en-r",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#organització-dels-scripts-en-r",
+    "title": "Guia per fer un projecte d’estadística o de ciència de dades",
+    "section": "Organització dels scripts en R",
+    "text": "Organització dels scripts en R"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#diferents-arxius",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#diferents-arxius",
+    "title": "Guia per fer un projecte d’estadística o de ciència de dades",
+    "section": "Diferents arxius",
+    "text": "Diferents arxius\n\n\nNom acceptables\nproject\n│   data wrangling.R\n│   load data.R\n│   modelling.R\n│   packages.R\n│   plots.R\n│   plots2.R\n\nNoms millors\nproject\n│   00_packages.R\n│   01_load_data.R\n│   02_data_wrangling.R\n│   03_exploratory_plots.R\n│   04_modelling.R\n│   05_final_plots_tables.R\n\n\n\n\n\n\n\n\nAtajos del teclado\n\n\n\nUtilitzar números com a prefix per donar un ordre.\nDonar noms descriptius.\nEvitar espais en blanc, utilitzar _ o -.\n\n\nNota: Utilitzar criteris similar pel nom de variables i métodes"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#múltiples-carpetes",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#múltiples-carpetes",
+    "title": "Guia per fer un projecte d’estadística o de ciència de dades",
+    "section": "Múltiples carpetes",
+    "text": "Múltiples carpetes\nUtilitzar una bona estructura de carpetes per optimitzar l’organització del projecte:\nproject\n│   project.Rproj\n│   README.md\n└───data\n│   │   data_inicial.RData\n│   │   data_preprocessada.RData\n│   │   data_modelling.RData\n└───docs\n└───inputs\n│   │   data.csv\n└───outputs\n│   └─── data_final.csv \n│   └─── plots\n│        │   residuals.png\n│        │   outcome_by_age.png\n│        │   outcome_by_occupation.png\n└───syntax\n│   │   00_packages.R\n│   │   01_load_data.R\n│   │   02_data_wrangling.R\n│   │   03_exploratory_plots.R\n│   │   04_modelling.R\n│   │   05_final_plots_tables.R\n└───temp"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#dependències-dels-scripts-en-r",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#dependències-dels-scripts-en-r",
+    "title": "Guia per fer un projecte d’estadística o de ciència de dades",
+    "section": "Dependències dels scripts en R",
+    "text": "Dependències dels scripts en R\nproject\n└───syntax\n│   │   00_packages.R\n│   │   01_load_data.R\n│   │   02_data_wrangling.R\n│   │   03_exploratory_plots.R\n│   │   04_modelling.R\n│   │   05_final_plots_tables.R\n\nscripts 01 depenen de 00\nscript 02 depèn de 01 (y 00)\nscript 03 depèn de 02 (y 01 y 00)\nscript 04 depèn de 03 (y 02 y 01 y 00)\n…\n\n\n\n\n\n\n\n\n\nAtajos del teclado\n\n\nEscriure la organització i altre informació útil en un fitxer README.md"
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#problema-membres-de-lequip-que-tenen-diferentes-versions-de-les-llibreries",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#problema-membres-de-lequip-que-tenen-diferentes-versions-de-les-llibreries",
+    "title": "Guia per fer un projecte d’estadística o de ciència de dades",
+    "section": "Problema: membres de l’equip que tenen diferentes versions de les llibreries",
+    "text": "Problema: membres de l’equip que tenen diferentes versions de les llibreries\n\n\nrenv:\n\nAïllar un entorn únic associat al projecte.\nPermet fixar versions dels paquets utilitzats per a un projecte.\nFacilita les tasques cooperatives."
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#problema-membres-de-lequip-amb-versió-diferent-de-r",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#problema-membres-de-lequip-amb-versió-diferent-de-r",
+    "title": "Guia per fer un projecte d’estadística o de ciència de dades",
+    "section": "Problema: membres de l’equip amb versió diferent de R",
+    "text": "Problema: membres de l’equip amb versió diferent de R\n\n\nrig:\n\nPermet administrar múltiples versions de R.\nFa fàcil el canvi de versió de R per a cada projecte i la seva gestió."
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#problema-membres-de-lequip-amb-versió-diferent-de-r-1",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#problema-membres-de-lequip-amb-versió-diferent-de-r-1",
+    "title": "Guia per fer un projecte d’estadística o de ciència de dades",
+    "section": "Problema: membres de l’equip amb versió diferent de R",
+    "text": "Problema: membres de l’equip amb versió diferent de R\n\n\nRix:\n\nLa llibreria Rix és un administrador de llibreries enfocat en compilacions reproduïbles.\nCrea entorns específics amb una versió personalitzada de R, les seves llibreries i totes les dependències del sistema."
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#problema-necessito-ajuda-amb-el-codi",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#problema-necessito-ajuda-amb-el-codi",
+    "title": "Guia per fer un projecte d’estadística o de ciència de dades",
+    "section": "Problema: Necessito ajuda amb el codi",
+    "text": "Problema: Necessito ajuda amb el codi\n\n\nLa llibreria {reprex} facilita la creació d’un exemple reproduïble del codi. Pots afegir la informació de la sessió com pot ser les versions de les llibreries."
+  },
+  {
+    "objectID": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#problema-compartició-de-codi",
+    "href": "Introducciones/TIPSProyectos/TipsProyectos_2026.html#problema-compartició-de-codi",
+    "title": "Guia per fer un projecte d’estadística o de ciència de dades",
+    "section": "Problema: Compartició de codi",
+    "text": "Problema: Compartició de codi\nEines com Github permeten tenir un lloc centralitzat en remot a on mantenir l’última versió del codi. Aquestes eines permeten tenir un:\n\nprojecte públic.\nprojecte privat (Recomenat)."
+  }
+]
